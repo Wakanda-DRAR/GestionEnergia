@@ -1,7 +1,14 @@
 # GestionEnergia
 
-Link al repositorio de Gestion de energia: https://github.com/Wakanda-DRAR/GestionEnergia.git
+## Hecho por Daniel Andrés Moreno Rey , Rodrigo Rojas Redondo , Arturo Lopez Castaño y Roberto Quilez
 
+# Link al repositorio
+
+https://github.com/Wakanda-DRAR/GestionEnergia.git
+
+# Video de instalación y muestra de un microservicio
+
+https://www.youtube.com/watch?v=t7rg-MPO-gQ
 
 ## Descripción
 GestionEnergia es un microservicio desarrollado con Spring Boot que gestiona el consumo de energía de los usuarios. Este proyecto utiliza Eureka para el registro y descubrimiento de servicios, y Actuator para el monitoreo.
